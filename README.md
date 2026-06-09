@@ -1,6 +1,6 @@
 # Windows Event Monitor
 
-A Python-based security monitoring tool that analyzes Windows Security Event Logs and provides insight into authentication and credential-related activities.
+A Python based security monitoring tool that analyzes Windows Security Event Logs and provides insight into authentication and credential-related activities.
 
 ## Project Overview
 
