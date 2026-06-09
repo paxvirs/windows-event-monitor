@@ -55,3 +55,4 @@ for event_id, count in sorted(event_counts.items()):
     print(f"Description: {description}")
     print(f"Occurrences: {count}")
     print("-" * 40)
+    print("-" * 40)
